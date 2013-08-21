@@ -7,18 +7,20 @@
 
 // Compile: g++ -std=c++11 ...
 
+struct string_tag {};
+struct int_tag {};
+
 template<class T>
 struct Foo {
     void bar() {
         if (std::is_same<T,std::string>::value) {
-            bar(std::string{});
+            bar(string_tag{});
         } else {
-            int i = 0;
-            bar(i);
+            bar(int_tag{});
         }
     }
-    void bar(std::string) { std::cout << "string impl" << std::endl; }
-    void bar(int) { std::cout << "int impl" << std::endl; }
+    void bar(string_tag) { std::cout << "string impl" << std::endl; }
+    void bar(int_tag)    { std::cout << "int impl" << std::endl; }
 
 };
 
