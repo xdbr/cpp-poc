@@ -1,3 +1,6 @@
 [submodule "member-dispatch"]
 	path = member-dispatch
 	url = git@github.com:xdbr/cpp-member-method-instantiation-dispatch.git
+[submodule "lazy-evaluation"]
+	path = lazy-evaluation
+	url = git@github.com:xdbr/cpp-poc-lazy.git
