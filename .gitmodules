@@ -10,3 +10,6 @@
 [submodule "multidimensional-array"]
 	path = multidimensional-array
 	url = git@github.com:xdbr/cpp11-multideminsional-array.git
+[submodule "generic-serialize"]
+	path = generic-serialize
+	url = git@github.com:xdbr/cpp-generic-serialize.git
