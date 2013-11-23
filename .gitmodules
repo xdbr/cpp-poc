@@ -7,3 +7,6 @@
 [submodule "defer"]
 	path = defer
 	url = git@github.com:xdbr/cpp-defer.git
+[submodule "multidimensional-array"]
+	path = multidimensional-array
+	url = git@github.com:xdbr/cpp11-multideminsional-array.git
