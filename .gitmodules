@@ -4,3 +4,6 @@
 [submodule "lazy-evaluation"]
 	path = lazy-evaluation
 	url = git@github.com:xdbr/cpp-poc-lazy.git
+[submodule "defer"]
+	path = defer
+	url = git@github.com:xdbr/cpp-defer.git
