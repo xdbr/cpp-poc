@@ -13,3 +13,6 @@
 [submodule "generic-serialize"]
 	path = generic-serialize
 	url = git@github.com:xdbr/cpp-generic-serialize.git
+[submodule "range"]
+	path = range
+	url = git@github.com:xdbr/cpp-range.git
