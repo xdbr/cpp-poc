@@ -1,0 +1,3 @@
+[submodule "member-dispatch"]
+	path = member-dispatch
+	url = git@github.com:xdbr/cpp-member-method-instantiation-dispatch.git
