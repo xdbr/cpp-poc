@@ -22,3 +22,6 @@
 [submodule "make-unique"]
 	path = make-unique
 	url = git@github.com:xdbr/cpp-make-unique.git
+[submodule "pipe"]
+	path = pipe
+	url = git@github.com:xdbr/cpppipe.git
