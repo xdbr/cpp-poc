@@ -47,3 +47,7 @@ range
 
 Leave those old-style for loops behind.
 
+pipe
+----
+
+-Ofun unix like pipes for containers
