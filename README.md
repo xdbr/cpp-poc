@@ -51,3 +51,8 @@ pipe
 ----
 
 -Ofun unix like pipes for containers
+
+times
+-----
+
+Do something x times

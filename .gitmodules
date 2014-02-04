@@ -25,3 +25,6 @@
 [submodule "pipe"]
 	path = pipe
 	url = git@github.com:xdbr/cpppipe.git
+[submodule "times"]
+	path = times
+	url = git@github.com:xdbr/cpp-exp-times.git
